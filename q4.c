@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/*
+    CABEÇALHO DO CÓDIGO
+    ALUNO: DIOGO OLIVEIRA FERREIRA
+    MATRICULA: 231011266
+*/
+
 #ifdef WIN32
 #include <windows.h>
 #endif

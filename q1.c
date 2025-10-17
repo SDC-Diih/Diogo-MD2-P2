@@ -3,6 +3,13 @@
 #include <math.h>
 #include <string.h>
 
+/*
+    CABEÇALHO DO CÓDIGO
+    ALUNO: DIOGO OLIVEIRA FERREIRA
+    MATRICULA: 231011266
+*/
+
+
 // ===================================================================
 // FUNÇÕES AUXILIARES
 // ===================================================================

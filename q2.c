@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+    CABEÇALHO DO CÓDIGO
+    ALUNO: DIOGO OLIVEIRA FERREIRA
+    MATRICULA: 231011266
+*/
+
 int mdc(int a, int b){ // Função para calcular o MDC entre dois numeros --> Algoritmo de Euclides
     int resto = a % b;
     if(resto == 0) return b;
